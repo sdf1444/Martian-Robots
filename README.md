@@ -84,6 +84,7 @@ From the root folder:
 ```
 dotnet run --project MartianRobots
 ```
+The program will read input from the console (standard input) and print output to the console (standard output).
 
 ### **Run Unit Tests**
 
