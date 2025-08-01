@@ -97,7 +97,8 @@ dotnet test
 ### Example
 
 **Input**<br>
-```5 3
+```
+5 3
 1 1 E
 RFRFRFRF
 
@@ -109,7 +110,8 @@ LLFFFLFLFL
 ```
 
 **Expected Output**<br>
-```1 1 E
+```
+1 1 E
 3 3 N LOST
 2 3 S
 ```
