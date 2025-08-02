@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace MartianRobots.Commands
+﻿namespace MartianRobots.Commands
 {
     /// <summary>
     /// Command to turn the robot left.

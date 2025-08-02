@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using MartianRobots.Commands;
+﻿using MartianRobots.Commands;
 using MartianRobots.Models;
 
 namespace MartianRobots
